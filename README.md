@@ -1,2 +1,2 @@
-# python_practising_code
-python learning process, keep doing better.
+# python_programms
+My joining with python.
